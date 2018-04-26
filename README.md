@@ -31,3 +31,12 @@
 
 ### 四、提交地址
 提交方式非常简单，您可以在`GitHub`的[pytorch-docs](https://github.com/earnp/pytorch-docs)中提交你的翻译或者加入右侧`pytorch交流群`联系群主提交翻译。
+
+### 五、认领情况
+
+| 章节 | 认领人 | 翻译情况 | 
+| :-: | :-: | :-: | 
+| 自动求导机制 | Song| 100% | 
+| 广播语义 | Song| 100% | 
+| torch.nn | Orchestrate  | 0% | 
+| torch.nn.functional | 俞鸿飞 | 0% |
