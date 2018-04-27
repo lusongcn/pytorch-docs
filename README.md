@@ -38,5 +38,8 @@
 | :-: | :-: | :-: | 
 | 自动求导机制 | Song| 100% | 
 | 广播语义 | Song| 100% | 
+| CUDA语义 | 风中劲草| 100% | 
+| 扩展PyTorch | Song| 100% | 
+| 常见问题 | 风中劲草| 100% | 
 | torch.nn | Orchestrate  | 0% | 
 | torch.nn.functional | 俞鸿飞 | 0% |
